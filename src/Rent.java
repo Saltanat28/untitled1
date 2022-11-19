@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface Rent {
+public interface Rent {
+
+    String payRent();
 }
